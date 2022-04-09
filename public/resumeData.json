@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "G'hetnos",
+    "occupation": "",
+    "description": "A dicional a la venta de productos y accesorios tambien se prestan servios de programacion industrial y asesorias </p>",
+    "image": "2profilepic.jpg",
+    "bio": "Segundo maquetado de la clase de full stack,usando React, HTML y CSS. basados en g'hetnos un emprendimiento  nacido en la adversidad de la pandemia.",
+    "contactmessage": "Para nosotros es importante brindarte la mejor atencion",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "Universidad de bogota jorge tadeo lozano",
+      "city": "BOGOTA D.C",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "",
+        "degree": "",
+        "graduated": "",
+        "description": ""
+      },
+      {
+        "school": "",
+        "degree": "",
+        "graduated": "",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": " ",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ","
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "fury-fighting-gear.jpeg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+      "title": "Fury Fighting Gear",
+      "category": "(offline now) A fighting gear company I started",
+       "image": "2profilepic.jpeg",
+       "url": "http://www.timbakerdev.com"
+      },
+      {
+       "title": "Original Thai Food",
+      "category": "Website I built for a restaurant I like in Thailand",
+      "image": "2profilepic.jpeg",
+      "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+      "title": "Resume Website",
+      "category": "A React based resume website template",
+      "image": "2profilepic.jpeg",
+      "url": "http://www.timbakerdev.com"
+      },
+      {
+      "title": "Smirkspace",
+      "category": "(MVP Only) A React and Meteor based chat University project.",
+      "image": "2profilepic.jpeg",
+      "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
