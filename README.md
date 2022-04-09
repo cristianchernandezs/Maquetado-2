@@ -1,7 +1,7 @@
-![alt text](https://github.com/cristianchernandezs/Maquetado-2/blob/main/Captura%20de%20pantalla%20maquetado%202.png)
+# Mquetado 2 usando react.
 
+![alt text](https://github.com/cristianchernandezs/Maquetado-2/blob/main/Captura%20de%20pantalla%20maquetado%202.png)
 # React JS Resume Web App Template      
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
 ### <a href="https://react-resume-template.herokuapp.com/">LIVE DEMO</a> 
 ### If this template has helped you and you'd like to support my work, feel free to [♥️ Sponsor](https://github.com/sponsors/tbakerx) the project 
 ### 😁 A much improved V2 is on the way 🎉
